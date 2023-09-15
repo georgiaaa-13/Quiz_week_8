@@ -1,0 +1,18 @@
+commit aea866d412fbdda7c83c90faefb0912195575e88
+Author: Georgia <georgia.platt@griffithuni.edu.au>
+Date:   Fri Sep 15 15:28:31 2023 +1000
+
+    Added log.txt
+
+commit 62ecbce4095d22cfa975885a51356e2b887b76bb
+Author: Georgia <georgia.platt@griffithuni.edu.au>
+Date:   Fri Sep 15 15:25:12 2023 +1000
+
+    Updated Q2
+
+commit aacfe35bbd81a122b31db84ced3899a71553bc9b
+Author: Georgia <georgia.platt@griffithuni.edu.au>
+Date:   Fri Sep 15 15:20:05 2023 +1000
+
+    Completed Q1 and Q2
+
