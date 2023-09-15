@@ -17,7 +17,7 @@ plt.subplots_adjust(hspace=0.3)
 
 plt.subplot(2, 1, 2)
 plt.plot(years, temp, 'r*-')
-plt.ylabel("Temp (C)")
+plt.ylabel("Temp (°C)")
 plt.xlabel("Year (decade)")
 plt.savefig("co2_temp_2.png")
 plt.show()
